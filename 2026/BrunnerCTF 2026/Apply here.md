@@ -1,4 +1,5 @@
-![[Screenshot_20260822_173107.png]]![[Pasted image 20260823184729.png]]
+![Screenshot](./screenshots/Screenshot_20260822_173107.png)
+![Screenshot](./screenshots/Pasted image 20260823184729.png)
 
 After opening the website it gave a Application form. After submitting it I got this page :![[Screenshot_20260822_173121.png]]
 
