@@ -1,4 +1,4 @@
-![Screenshot](./screenshots/Screenshot_20260822_173107.png)
+
 ![Screenshot](./screenshots/1.png)
 
 After opening the website it gave a Application form. After submitting it I got this page :
